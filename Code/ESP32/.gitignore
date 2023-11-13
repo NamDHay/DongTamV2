@@ -1,0 +1,10 @@
+.devcontainer
+.vscode
+build
+*.py
+
+*.log
+*.lock
+components
+!CMakeLists.txt
+*.old
